@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saadettin Berber</h1>
 <h3 align="center">Computer Engineering Student at Yıldız Technical University</h3>
 
-- 🌱 I’m currently learning **Image Captioning**
+- 🌱 I’m currently learning **Image Captioning/Change Captioning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
